@@ -1,0 +1,23 @@
+{
+  "name": "frontend_for_breeeaaad",
+  "version": "1.0.0",
+  "description": "simple frontend for dynamic segmentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "prod": "vite build",
+    "serve": "vite preview --port 8080"
+  },
+  "keywords": [
+    "js",
+    "vite",
+    "http"
+  ],
+  "author": "Minaru Karida",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+  }
+}
